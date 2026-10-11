@@ -4,7 +4,7 @@
 
 ### diarmuradi
 
-A shadcn/ui registry for blocks & templates.
+A shadcn/ui registry for components, blocks & templates.
 
 <a href="https://diarmuradi.com">Website</a> ·
 <a href="https://diarmuradi.com/components">Components</a> ·
